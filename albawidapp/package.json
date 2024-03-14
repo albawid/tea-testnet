@@ -294,6 +294,7 @@
     "undici-types": "^5.26.5",
     "update-browserslist-db": "^1.0.13",
     "uri-js": "^4.4.1",
+    "user": "^0.0.0",
     "util-deprecate": "^1.0.2",
     "which": "^2.0.2",
     "which-boxed-primitive": "^1.0.2",
@@ -307,13 +308,12 @@
     "yaml": "^2.4.1",
     "yocto-queue": "^0.1.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/albawid/tea-testnet.git"
+    "url": "https://github.com/albawid/tea-testnet"
   },
   "author": "",
   "license": "ISC",
